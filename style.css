@@ -1,0 +1,28 @@
+*{
+	padding:0;
+	margin:0;
+}
+
+#myCanvas{
+/*	border:1px solid black;*/
+	background: #eee;
+	display: block;
+	margin: 0 auto;
+}
+#replay{
+	text-align: center;
+	padding:10px;
+	margin:5px;
+}
+#replay a{
+	border:1px solid black;
+	background:#ffffff;
+}
+
+#replay a:hover{
+	background: #435896;
+}
+
+#gameStatus{
+	text-align: center;
+}
